@@ -24,7 +24,7 @@ To know more about GEN OBBY, visit — [genobby_idea](https://ayush-0217.github.
 Next.js 14  ·  Supabase  ·  Cloudinary  ·  Groq (LLaMA)  ·  Tailwind  ·  Vercel
 ```
 
-- Custom mushroom-themed dark UI — earthy, warm, intentional
+- Custom themed dark UI —  warm, intentional
 - AI-generated post appreciation (private, just for the poster)
 - Supabase auth + real-time DB
 - Cloudinary image uploads
