@@ -40,7 +40,7 @@ Next.js 14  ·  Supabase  ·  Cloudinary  ·  Groq (LLaMA)  ·  Tailwind  ·  Ve
 |---|---|
 | **Frontend** | Next.js · React · Tailwind CSS · HTML/CSS/JS |
 | **Backend** | Node.js · Supabase · REST APIs |
-| **AI / ML** | Python · Groq API · LLaMA · (learning → LangChain, PyTorch) |
+| **AI / ML** | Python · Groq API · LLaMA · |
 | **DSA** | Java · LeetCode · NeetCode 150 |
 | **DevOps** | Git · Vercel · Cloudinary |
 | **Robotics** | ESP32 · servo control · MediaPipe |
