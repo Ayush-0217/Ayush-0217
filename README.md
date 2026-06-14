@@ -84,10 +84,10 @@ My R&AI degree isn't just a degree — it's a portfolio advantage.
 
 ```python
 goals = {
-    "placement": "FAANG-level (20 LPA+)",
+    "placement": "FAANG-level (30 LPA+)",
     "academia":  "GATE → IIT M.Tech",
     "open_source": "GSoC selection",
-    "vibe": "build real things, ship fast, learn deep"
+    "vibe": "build real things"
 }
 ```
 
