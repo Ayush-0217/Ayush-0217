@@ -119,7 +119,7 @@ goals = {
 
 <div align="center">
 
-*"ship it. learn from it. rebuild it better."*
+*" CARPE DIEM "*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ayush-0217&color=d4824a&style=flat-square)
 
