@@ -96,9 +96,9 @@ goals = {
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=d4824a&icon_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-0217&show_icons=true&theme=dark&title_color=d4824a&icon_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0217&layout=compact&theme=dark&title_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
 
 </div>
 
