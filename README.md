@@ -1,37 +1,39 @@
 <div align="center">
 
-# hey, i'm ayush 👾
+# hey, i'm ayush
 
 **building things at the intersection of code, AI & robotics**
 
-*B.Tech R&AI @ JIIT Noida • 1st Year*
+*B.Tech R&AI @ JIIT Noida · 1st Year*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4824A&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Robotics+%26+AI+Student;DSA+Grinder+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4824A&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Robotics+%26+AI+Student;DSA+Grinder)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 what i'm building
+## what i'm building
 
-### [GEN OBBY](https://github.com/ayush/gen-obby) — hobby-sharing social platform
+### [GEN OBBY](https://ayush-0217.github.io/genobby_idea/) — hobby-sharing social platform
 > *"Instagram, but for people with actual hobbies"*
 
-A full-stack social app where people share and discover hobbies — powered by AI appreciation, no algorithm noise.
+A full-stack social app where people share and discover hobbies — powered by AI, no algorithm noise, no dopamine loops.
+
+To know more about GEN OBBY, visit — [genobby_idea](https://ayush-0217.github.io/genobby_idea/)
 
 ```
 Next.js 14  ·  Supabase  ·  Cloudinary  ·  Groq (LLaMA)  ·  Tailwind  ·  Vercel
 ```
 
-- 🍄 Custom mushroom-themed dark UI — earthy, warm, intentional
-- 🤖 AI-generated post appreciation (private, just for you)
-- 🔐 Supabase auth + real-time DB
-- ☁️ Cloudinary image uploads
-- 🆓 Zero monthly hosting cost
+- Custom mushroom-themed dark UI — earthy, warm, intentional
+- AI-generated post appreciation (private, just for the poster)
+- Supabase auth + real-time DB
+- Cloudinary image uploads
+- Zero monthly hosting cost
 
 ---
 
-## 🛠️ my stack
+## my stack
 
 <div align="center">
 
@@ -48,26 +50,26 @@ Next.js 14  ·  Supabase  ·  Cloudinary  ·  Groq (LLaMA)  ·  Tailwind  ·  Ve
 
 ---
 
-## 📈 current grind
+## current grind
 
 ```
-🌅 Morning  →  Java + DSA (LeetCode / NeetCode 150)
-🌆 Evening  →  Python + AI/ML (CampusX roadmap)
-🔧 Weekend  →  Open source contributions (targeting Zulip → GSoC)
+Morning  →  Java + DSA (LeetCode / NeetCode 150)
+Evening  →  Python + AI/ML (CampusX roadmap)
+Weekend  →  Open source contributions (targeting Zulip → GSoC)
 ```
 
 **Learning roadmap:**
-- ✅ Next.js 14 App Router + Supabase + full-stack deployment
-- 🔄 Java DSA — Arrays, Strings, Recursion...
-- 🔄 Python ML — 100 Days → ML → DL → GenAI
-- 🎯 GSoC 2026 — Zulip (Django/Python)
-- 🎯 GATE CS — IIT M.Tech target
+- [x] Next.js 14 App Router + Supabase + full-stack deployment
+- [ ] Java DSA — Arrays, Strings, Recursion...
+- [ ] Python ML — 100 Days → ML → DL → GenAI
+- [ ] GSoC 2026 — Zulip (Django/Python)
+- [ ] GATE CS — IIT M.Tech target
 
 ---
 
-## 🤖 the robotics side
+## the robotics side
 
-I'm building **RoboStand** — a phone-controlled motorized camera tripod for content creators.
+Building **RoboStand** — a phone-controlled motorized camera tripod for content creators.
 
 ```
 ESP32 + MG996R servos → real-time phone control
@@ -79,7 +81,7 @@ My R&AI degree isn't just a degree — it's a portfolio advantage.
 
 ---
 
-## 🎯 endgame
+## endgame
 
 ```python
 goals = {
@@ -92,25 +94,25 @@ goals = {
 
 ---
 
-## 📊 github stats
+## github stats
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-0217&show_icons=true&theme=dark&title_color=d4824a&icon_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush-0217&show_icons=true&theme=dark&title_color=d4824a&icon_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0217&layout=compact&theme=dark&title_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-0217&layout=compact&theme=dark&title_color=d4824a&border_color=2d1f0a&bg_color=1a1208&text_color=c8bfb0)
 
 </div>
 
 ---
 
-## 📬 reach me
+## reach me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-solanki-658447361/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as9656447@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ayush0217)
 
 </div>
 
@@ -118,8 +120,8 @@ goals = {
 
 <div align="center">
 
-*"ship it. learn from it. rebuild it better."* 🍄
+*"ship it. learn from it. rebuild it better."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=d4824a&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=ayush-0217&color=d4824a&style=flat-square)
 
 </div>
