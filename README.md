@@ -52,8 +52,8 @@ Next.js 14  ·  Supabase  ·  Cloudinary  ·  Groq (LLaMA)  ·  Tailwind  ·  Ve
 ## current grind
 
 ```
-Morning  →  Java + DSA (LeetCode / NeetCode 150)
-Evening  →  Python + AI/ML (CampusX roadmap)
+Morning  →  Java + DSA 
+Evening  →  Wev Dev 
 Weekend  →  Open source contributions (targeting Zulip → GSoC)
 ```
 
@@ -62,7 +62,7 @@ Weekend  →  Open source contributions (targeting Zulip → GSoC)
 - [ ] Java DSA — Arrays, Strings, Recursion...
 - [ ] Python ML — 100 Days → ML → DL → GenAI
 - [ ] GSoC 2026 — Zulip (Django/Python)
-- [ ] GATE CS — IIT M.Tech target
+
 
 ---
 
